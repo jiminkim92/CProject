@@ -11,7 +11,7 @@ int main3() {
 	int number1 = 123;					// 사용할땐 %d
 
 	// 실수 변수(소수정있는 숫자)
-	double number2 = -3.14;				// 사용할땐  %lf
+	double number2 = -3.14;				// 사용할땐 %lf
 	
 
 	// 문자열 변수(여러글자)
