@@ -15,7 +15,7 @@ int main()
 	avg = (double)sum / 3;
 
 	printf("ÇÕ°è : %d \n", sum);
-	printf("Æò±Õ : %2lf",avg);
+	printf("Æò±Õ : %2lf", avg);
 
 	
 
