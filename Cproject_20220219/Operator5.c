@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main7() {
+int main() {
 	// page 98 #1
 	// 사용자로부터 나이는 입력받아 20살 이상이면 1250원, 20살 미만이면 800원을 받는 지하철 요금정산 프로그램 만들기
 
@@ -10,7 +10,7 @@ int main7() {
 	
 	int age;
 	int price;
-	prinf("나이를 입력하세요??");
+	prinf("나이를 입력하세요>>");
 	scanf("%d", &age);
 	
 	price = (age >= 20) ? 1250 : 800;

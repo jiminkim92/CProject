@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main8() {
 	// page101 #3, #4, #5 (/, %, 삼항연산자) 
 	
 	// #3
